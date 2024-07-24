@@ -21,5 +21,6 @@ This repository contains my solutions to the projects and exercises from the cou
 
 1. **Degrees of Separation**: Implementing a search algorithm to find the shortest path between actors in a movie database.
 2. **Tic Tac Toe**: Developing an AI that plays Tic Tac Toe using the Minimax algorithm.
+3. **Knights and knaves**: Completed the logical puzzles by adding the logical propositions to solve each one of the proposed puzzles
 
 More projects will be added as I complete them.
